@@ -27,6 +27,5 @@ public class VotingSystem {
         linkedVotes.forEach((candidate, count) -> System.out.println(candidate + ": " + count));
     }
 
-    public int get(String bob) {
-    }
+
 }
