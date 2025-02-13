@@ -1,4 +1,4 @@
-package com.collections.set.findsubsets;
+package com.collections.set.symmetricdifference.findsubsets;
 
 import java.util.Set;
 
